@@ -5,7 +5,7 @@ import sys
 try:
     from pynput import keyboard
 except ImportError:
-    print("Please install pynput for this script: pip install pynput")
+    print("Install pynput for this script: pip install pynput")
     sys.exit(1)
 
 # Network Configuration (Must match qwen_voice.1.1.py)
@@ -31,7 +31,7 @@ def on_press(key):
         print(f"Error handling keypress: {e}")
 
 def main():
-    print("🔑 Native Key Monitor Active. Listening for [F2]...")
+    print("Native Key Monitor Active. Listening for [F2]...")
     print("Press Ctrl+C in this terminal window to stop monitoring.")
     
     # Start the native macOS event listener loop

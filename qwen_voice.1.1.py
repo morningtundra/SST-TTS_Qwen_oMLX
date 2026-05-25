@@ -54,7 +54,7 @@ class QwenVoiceAssistant:
         """Converts speech to text using the local MLX ASR model."""
         try:
             text_pieces = []
-            print("🧠 Decoding speech...")
+            print("Decoding speech...")
             for text_chunk in self.stt_model.generate(audio_path, language="English", stream=True):
                 print(text_chunk.text, end="", flush=True)
                 text_pieces.append(text_chunk.text)
@@ -127,7 +127,7 @@ class QwenVoiceAssistant:
                     audio_generator = generate_audio(
                         model=self.tts_model, 
                         text=text_payload,
-                        ref_audio="./user_voice.wav",
+                        ref_audio="./user_voice.mp3",
                         ref_text=self.current_ref_text,
                         stream=True
                     )

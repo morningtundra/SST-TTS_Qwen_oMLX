@@ -1,0 +1,419 @@
+
+Starting audio stream...
+==========
+Duration:              00:00:02.000
+Samples/sec:           53023.5
+Prompt:                25 tokens, 27.6 tokens-per-sec
+Audio:                 48000 samples, 53023.5 samples-per-sec
+Real-time factor:      2.21x
+Processing time:       0.91s
+Peak memory usage:     4.57GB
+
+Real-time TTS failed on segment [How can I assist you with your editing?]: 'NoneType' object is not iterable
+
+
+ Execution cycle finished cleanly.
+
+ Ready. Awaiting next network trigger...
+
+[Network Trigger Received from 127.0.0.1:61708] Initiating cycle...
+
+ LISTENING (5s)... Speak clear coding prompts.
+Recording stopped.
+🧠 Decoding speech...
+Hello, I'm on Doku. This is Joy studying English together.
+
+👤 Decoded Prompt: "Hello, I'm on Doku. This is Joy studying English together."
+ Querying local Qwen2.5-Coder engine...
+Hi Joy! How can I assist you today?[94mText:[0m Hi Joy! How can I assist you today?
+[94mVoice:[0m af_heart
+[94mSpeed:[0m 1.0x
+[94mLanguage:[0m en
+ICL generation: Hi Joy! How can I assist you today?...
+
+Starting audio stream...
+==========
+Duration:              00:00:02.000
+Samples/sec:           47448.3
+Prompt:                25 tokens, 24.7 tokens-per-sec
+Audio:                 48000 samples, 47448.3 samples-per-sec
+Real-time factor:      1.98x
+Processing time:       1.01s
+Peak memory usage:     4.57GB
+==========
+Duration:              00:00:00.640
+Samples/sec:           47914.5
+Prompt:                8 tokens, 25.0 tokens-per-sec
+Audio:                 15360 samples, 47914.5 samples-per-sec
+Real-time factor:      2.00x
+Processing time:       0.32s
+Peak memory usage:     4.57GB
+
+Real-time TTS failed on segment [Hi Joy! How can I assist you today?]: 'NoneType' object is not iterable
+
+
+ Execution cycle finished cleanly.
+
+ Ready. Awaiting next network trigger...
+
+[Network Trigger Received from 127.0.0.1:59946] Initiating cycle...
+
+ LISTENING (5s)... Speak clear coding prompts.
+Recording stopped.
+🧠 Decoding speech...
+What is the Undoku language project?
+
+👤 Decoded Prompt: "What is the Undoku language project?"
+ Querying local Qwen2.5-Coder engine...
+The Undoku language project is an initiative to create a new constructed language, focusing on simplicity and ease of learning.[94mText:[0m The Undoku language project is an initiative to create a new constructed language, focusing on simplicity and ease of learning.
+[94mVoice:[0m af_heart
+[94mSpeed:[0m 1.0x
+[94mLanguage:[0m en
+ICL generation: The Undoku language project is an initiative to cr...
+ It aims to be accessible to people of all ages and backgrounds.
+Starting audio stream...
+==========
+Duration:              00:00:02.000
+Samples/sec:           25603.7
+Prompt:                25 tokens, 13.3 tokens-per-sec
+Audio:                 48000 samples, 25603.7 samples-per-sec
+Real-time factor:      1.07x
+Processing time:       1.87s
+Peak memory usage:     4.57GB
+==========
+Duration:              00:00:02.000
+Samples/sec:           57140.5
+Prompt:                25 tokens, 29.8 tokens-per-sec
+Audio:                 48000 samples, 57140.5 samples-per-sec
+Real-time factor:      2.38x
+Processing time:       0.84s
+Peak memory usage:     4.57GB
+==========
+Duration:              00:00:02.000
+Samples/sec:           57467.3
+Prompt:                25 tokens, 29.9 tokens-per-sec
+Audio:                 48000 samples, 57467.3 samples-per-sec
+Real-time factor:      2.39x
+Processing time:       0.84s
+Peak memory usage:     4.57GB
+==========
+Duration:              00:00:02.000
+Samples/sec:           57296.9
+Prompt:                25 tokens, 29.8 tokens-per-sec
+Audio:                 48000 samples, 57296.9 samples-per-sec
+Real-time factor:      2.39x
+Processing time:       0.84s
+Peak memory usage:     4.57GB
+==========
+Duration:              00:00:01.840
+Samples/sec:           55465.0
+Prompt:                23 tokens, 28.9 tokens-per-sec
+Audio:                 44160 samples, 55465.0 samples-per-sec
+Real-time factor:      2.31x
+Processing time:       0.80s
+Peak memory usage:     4.57GB
+
+Real-time TTS failed on segment [The Undoku language project is an initiative to create a new constructed language, focusing on simplicity and ease of learning.]: 'NoneType' object is not iterable
+[94mText:[0m It aims to be accessible to people of all ages and backgrounds.
+[94mVoice:[0m af_heart
+[94mSpeed:[0m 1.0x
+[94mLanguage:[0m en
+ICL generation: It aims to be accessible to people of all ages and...
+Stopping local voice assistant services...
+Starting isolated local voice engine...
+Starting native hotkey monitor...
+=== Initializing Voice Pipeline ===
+  Initialized encoder codebooks
+Loaded speech tokenizer from /Users/Admin/.omlx/models/mlx-community/Qwen3-TTS-12Hz-0.6B-Base-4bit/speech_tokenizer
+
+🚀 Voice Engine Isolated. Running securely as user: root
+Awaiting network trigger on 127.0.0.1:9999... [Ctrl+C to exit]
+
+[Network Trigger Received from 127.0.0.1:56486] Initiating cycle...
+
+ LISTENING (5s)... Speak clear coding prompts.
+Recording stopped.
+Decoding speech...
+The.
+
+👤 Decoded Prompt: "The."
+ Querying local Qwen2.5-Coder engine...
+Hello! How can I assist you today?[94mText:[0m Hello! How can I assist you today?
+[94mVoice:[0m af_heart
+[94mSpeed:[0m 1.0x
+[94mLanguage:[0m en
+ICL generation: Hello! How can I assist you today?...
+
+Starting audio stream...
+==========
+Duration:              00:00:02.000
+Samples/sec:           53385.2
+Prompt:                25 tokens, 27.8 tokens-per-sec
+Audio:                 48000 samples, 53385.2 samples-per-sec
+Real-time factor:      2.22x
+Processing time:       0.90s
+Peak memory usage:     4.37GB
+==========
+Duration:              00:00:00.640
+Samples/sec:           49560.1
+Prompt:                8 tokens, 25.8 tokens-per-sec
+Audio:                 15360 samples, 49560.1 samples-per-sec
+Real-time factor:      2.07x
+Processing time:       0.31s
+Peak memory usage:     4.37GB
+
+Real-time TTS failed on segment [Hello! How can I assist you today?]: 'NoneType' object is not iterable
+
+
+ Execution cycle finished cleanly.
+
+ Ready. Awaiting next network trigger...
+
+[Network Trigger Received from 127.0.0.1:57121] Initiating cycle...
+
+ LISTENING (5s)... Speak clear coding prompts.
+Recording stopped.
+Decoding speech...
+What is the Andoculani?
+
+👤 Decoded Prompt: "What is the Andoculani?"
+ Querying local Qwen2.5-Coder engine...
+The Andoculani are a fictional species from the science fiction universe created by Robert A.[94mText:[0m The Andoculani are a fictional species from the science fiction universe created by Robert A.
+[94mVoice:[0m af_heart
+[94mSpeed:[0m 1.0x
+[94mLanguage:[0m en
+ICL generation: The Andoculani are a fictional species from the sc...
+ Heinlein. They are a race of humans who have evolved on the planet Andromeda. The Andoculani are known for their advanced technology and their role in the Galactic Patrol, a group that protects the galaxy from threats.
+Starting audio stream...
+==========
+Duration:              00:00:02.000
+Samples/sec:           10143.4
+Prompt:                25 tokens, 5.3 tokens-per-sec
+Audio:                 48000 samples, 10143.4 samples-per-sec
+Real-time factor:      0.42x
+Processing time:       4.73s
+Peak memory usage:     4.37GB
+==========
+Duration:              00:00:02.000
+Samples/sec:           55462.7
+Prompt:                25 tokens, 28.9 tokens-per-sec
+Audio:                 48000 samples, 55462.7 samples-per-sec
+Real-time factor:      2.31x
+Processing time:       0.87s
+Peak memory usage:     4.57GB
+==========
+Duration:              00:00:02.000
+Samples/sec:           57283.2
+Prompt:                25 tokens, 29.8 tokens-per-sec
+Audio:                 48000 samples, 57283.2 samples-per-sec
+Real-time factor:      2.39x
+Processing time:       0.84s
+Peak memory usage:     4.57GB
+==========
+Duration:              00:00:02.000
+Samples/sec:           57240.7
+Prompt:                25 tokens, 29.8 tokens-per-sec
+Audio:                 48000 samples, 57240.7 samples-per-sec
+Real-time factor:      2.39x
+Processing time:       0.84s
+Peak memory usage:     4.57GB
+==========
+Duration:              00:00:02.000
+Samples/sec:           57749.7
+Prompt:                25 tokens, 30.1 tokens-per-sec
+Audio:                 48000 samples, 57749.7 samples-per-sec
+Real-time factor:      2.41x
+Processing time:       0.83s
+Peak memory usage:     4.57GB
+==========
+Duration:              00:00:02.000
+Samples/sec:           57556.2
+Prompt:                25 tokens, 30.0 tokens-per-sec
+Audio:                 48000 samples, 57556.2 samples-per-sec
+Real-time factor:      2.40x
+Processing time:       0.83s
+Peak memory usage:     4.57GB
+==========
+Duration:              00:00:02.000
+Samples/sec:           57355.2
+Prompt:                25 tokens, 29.9 tokens-per-sec
+Audio:                 48000 samples, 57355.2 samples-per-sec
+Real-time factor:      2.39x
+Processing time:       0.84s
+Peak memory usage:     4.63GB
+==========
+Duration:              00:00:02.000
+Samples/sec:           56965.0
+Prompt:                25 tokens, 29.7 tokens-per-sec
+Audio:                 48000 samples, 56965.0 samples-per-sec
+Real-time factor:      2.37x
+Processing time:       0.84s
+Peak memory usage:     4.63GB
+==========
+Duration:              00:00:02.000
+Samples/sec:           57190.1
+Prompt:                25 tokens, 29.8 tokens-per-sec
+Audio:                 48000 samples, 57190.1 samples-per-sec
+Real-time factor:      2.38x
+Processing time:       0.84s
+Peak memory usage:     4.63GB
+==========
+Duration:              00:00:02.000
+Samples/sec:           57222.4
+Prompt:                25 tokens, 29.8 tokens-per-sec
+Audio:                 48000 samples, 57222.4 samples-per-sec
+Real-time factor:      2.38x
+Processing time:       0.84s
+Peak memory usage:     4.63GB
+==========
+Duration:              00:00:02.000
+Samples/sec:           56997.7
+Prompt:                25 tokens, 29.7 tokens-per-sec
+Audio:                 48000 samples, 56997.7 samples-per-sec
+Real-time factor:      2.37x
+Processing time:       0.84s
+Peak memory usage:     4.65GB
+==========
+Duration:              00:00:02.000
+Samples/sec:           57046.3
+Prompt:                25 tokens, 29.7 tokens-per-sec
+Audio:                 48000 samples, 57046.3 samples-per-sec
+Real-time factor:      2.38x
+Processing time:       0.84s
+Peak memory usage:     4.65GB
+==========
+Duration:              00:00:02.000
+Samples/sec:           56796.6
+Prompt:                25 tokens, 29.6 tokens-per-sec
+Audio:                 48000 samples, 56796.6 samples-per-sec
+Real-time factor:      2.37x
+Processing time:       0.85s
+Peak memory usage:     4.65GB
+==========
+Duration:              00:00:02.000
+Samples/sec:           56686.0
+Prompt:                25 tokens, 29.5 tokens-per-sec
+Audio:                 48000 samples, 56686.0 samples-per-sec
+Real-time factor:      2.36x
+Processing time:       0.85s
+Peak memory usage:     4.65GB
+==========
+Duration:              00:00:02.000
+Samples/sec:           56437.1
+Prompt:                25 tokens, 29.4 tokens-per-sec
+Audio:                 48000 samples, 56437.1 samples-per-sec
+Real-time factor:      2.35x
+Processing time:       0.85s
+Peak memory usage:     4.65GB
+==========
+Duration:              00:00:02.000
+Samples/sec:           56655.8
+Prompt:                25 tokens, 29.5 tokens-per-sec
+Audio:                 48000 samples, 56655.8 samples-per-sec
+Real-time factor:      2.36x
+Processing time:       0.85s
+Peak memory usage:     4.65GB
+==========
+Duration:              00:00:02.000
+Samples/sec:           55865.4
+Prompt:                25 tokens, 29.1 tokens-per-sec
+Audio:                 48000 samples, 55865.4 samples-per-sec
+Real-time factor:      2.33x
+Processing time:       0.86s
+Peak memory usage:     4.71GB
+==========
+Duration:              00:00:02.000
+Samples/sec:           53061.6
+Prompt:                25 tokens, 27.6 tokens-per-sec
+Audio:                 48000 samples, 53061.6 samples-per-sec
+Real-time factor:      2.21x
+Processing time:       0.90s
+Peak memory usage:     4.71GB
+==========
+Duration:              00:00:02.000
+Samples/sec:           55654.3
+Prompt:                25 tokens, 29.0 tokens-per-sec
+Audio:                 48000 samples, 55654.3 samples-per-sec
+Real-time factor:      2.32x
+Processing time:       0.86s
+Peak memory usage:     4.71GB
+==========
+Duration:              00:00:02.000
+Samples/sec:           56049.4
+Prompt:                25 tokens, 29.2 tokens-per-sec
+Audio:                 48000 samples, 56049.4 samples-per-sec
+Real-time factor:      2.34x
+Processing time:       0.86s
+Peak memory usage:     4.71GB
+==========
+Duration:              00:00:02.000
+Samples/sec:           55867.3
+Prompt:                25 tokens, 29.1 tokens-per-sec
+Audio:                 48000 samples, 55867.3 samples-per-sec
+Real-time factor:      2.33x
+Processing time:       0.86s
+Peak memory usage:     4.73GB
+==========
+Duration:              00:00:02.000
+Samples/sec:           55741.0
+Prompt:                25 tokens, 29.0 tokens-per-sec
+Audio:                 48000 samples, 55741.0 samples-per-sec
+Real-time factor:      2.32x
+Processing time:       0.86s
+Peak memory usage:     4.73GB
+==========
+Duration:              00:00:02.000
+Samples/sec:           55545.2
+Prompt:                25 tokens, 28.9 tokens-per-sec
+Audio:                 48000 samples, 55545.2 samples-per-sec
+Real-time factor:      2.31x
+Processing time:       0.86s
+Peak memory usage:     4.73GB
+==========
+Duration:              00:00:02.000
+Samples/sec:           55527.4
+Prompt:                25 tokens, 28.9 tokens-per-sec
+Audio:                 48000 samples, 55527.4 samples-per-sec
+Real-time factor:      2.31x
+Processing time:       0.86s
+Peak memory usage:     4.73GB
+==========
+Duration:              00:00:02.000
+Samples/sec:           55043.0
+Prompt:                25 tokens, 28.7 tokens-per-sec
+Audio:                 48000 samples, 55043.0 samples-per-sec
+Real-time factor:      2.29x
+Processing time:       0.87s
+Peak memory usage:     4.73GB
+==========
+Duration:              00:00:02.000
+Samples/sec:           53865.2
+Prompt:                25 tokens, 28.1 tokens-per-sec
+Audio:                 48000 samples, 53865.2 samples-per-sec
+Real-time factor:      2.24x
+Processing time:       0.89s
+Peak memory usage:     4.73GB
+==========
+Duration:              00:00:02.000
+Samples/sec:           53605.1
+Prompt:                25 tokens, 27.9 tokens-per-sec
+Audio:                 48000 samples, 53605.1 samples-per-sec
+Real-time factor:      2.23x
+Processing time:       0.90s
+Peak memory usage:     4.73GB
+==========
+Duration:              00:00:02.000
+Samples/sec:           53600.2
+Prompt:                25 tokens, 27.9 tokens-per-sec
+Audio:                 48000 samples, 53600.2 samples-per-sec
+Real-time factor:      2.23x
+Processing time:       0.90s
+Peak memory usage:     4.78GB
+==========
+Duration:              00:00:02.000
+Samples/sec:           54396.7
+Prompt:                25 tokens, 28.3 tokens-per-sec
+Audio:                 48000 samples, 54396.7 samples-per-sec
+Real-time factor:      2.27x
+Processing time:       0.88s
+Peak memory usage:     4.78GBStopping local voice assistant services...

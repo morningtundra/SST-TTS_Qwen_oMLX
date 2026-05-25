@@ -1,0 +1,8 @@
+mlx==0.31.2
+mlx_audio==0.4.3
+mlx_metal==0.31.2
+numpy==2.4.6
+openai==2.38.0
+pynput==1.8.2
+sounddevice==0.5.5
+soundfile==0.13.1
