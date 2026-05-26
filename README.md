@@ -1,6 +1,6 @@
 # Simple speech-to-text (STT) and LLM text-to-speech (TTS) Utility
 -----
-A simple voice interface to a local LLM. Activate the mic by pressing `fn + F2` and speak your prompt (upto 5 seconds).
+### A simple voice interface to a local LLM. Activate the mic by pressing `fn + F2` and speak your prompt (upto 5 seconds).
 
 `start_assistant.sh`
 Edit this bash file before running it with `sh ./start_assistant.sh`. Check the path and python environment match your own.
@@ -10,6 +10,9 @@ The background service that lsitens for the F2 key press. Nothing to edit in her
 
 `qwen_voice.1.1.py`
 The background service that performs the STT, TSS, and LLM exchange. Edit your paths in `main()` 
+
+`com.user.qwenassistant.plist`
+Config for the lunchctl service. Edit the paths.
 
 # Stack
 
