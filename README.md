@@ -1,14 +1,14 @@
 # Simple speech-to-text (STT) and LLM text-to-speech (TTS) Utility
 -----
-### A simple voice interface to a local LLM. Activate the mic by pressing **fn + F2** and speak your prompt (upto 5 seconds). The LLM response will be spoken with the sample voice (user_voice.wav). This is just a simple POC but happily accepting PRs.
+A simple voice interface to a local LLM. Activate the mic by pressing **fn + F2** and speak your prompt (upto 5 seconds). The LLM response will be spoken with the sample voice (user_voice.wav). This is just a simple POC but happily accepting PRs.
 
-`start_assistant.sh` Edit this bash file before running it. Check the path and python environment match your own.
+**start_assistant.sh** Edit this bash script before running it. Check the project, home dir path, and python environment match your own.
 
-`key_trigger.py` The background service that listens for the F2 key press. Nothing to edit in here.
+**key_trigger.py** The background service that listens for the F2 key press. Nothing to edit in here.
 
-`qwen_voice.1.1.py` The background service that performs the STT, TSS, and LLM exchange. Edit your paths in main(). 
+**qwen_voice.1.1.py** The background service that performs the STT, TSS, and LLM exchange. Edit your paths in main(). 
 
-`com.user.qwenassistant.plist` Config for the launchctl service. Edit the paths.
+**com.user.qwenassistant.plist** Config for the launchd service. Edit the paths.
 
 # Stack
 * oMLX
@@ -16,8 +16,8 @@
 * Qwen3-TTS-12Hz-0.6B-Base-4bit
 * Qwen3-ASR-0.6B-8bit
 
-## Setup
-Run `sh ./start_assistant.sh` to setup everything. The service will launch at boot but manually start it like this: 
+# Setup
+Run **sh ./start_assistant.sh** to setup everything. The service will launch at boot but you can manually start it like this: 
 
     launchctl bootstrap gui/$(id -u) ~/Library/LaunchAgents/com.user.qwenassistant.plist
 
