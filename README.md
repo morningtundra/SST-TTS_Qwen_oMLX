@@ -1,6 +1,6 @@
 # Simple speech-to-text (STT) and LLM text-to-speech (TTS) Utility
 -----
-### A simple voice interface to a local LLM. Activate the mic by pressing `fn + F2` and speak your prompt (upto 5 seconds).
+### A simple voice interface to a local LLM. Activate the mic by pressing `fn + F2` and speak your prompt (upto 5 seconds). The LLM response will be spoken with the sample voice (user_voice.wav)
 
 `start_assistant.sh`
 Edit this bash file before running it with `sh ./start_assistant.sh`. Check the path and python environment match your own.
